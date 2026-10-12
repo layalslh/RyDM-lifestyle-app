@@ -15,9 +15,6 @@ RyDM was built by a team of seven at the Geneva {ai} Hackathon 2026 (25–27 Sep
 **State.** Hackathon prototype. The demo ran on simulated data, and the Android and iPhone wrappers were tested on an emulator and a simulator, not with real users. RyDM is a general wellbeing tool, not a medical device (see [COMPLIANCE.md](COMPLIANCE.md)).
 
 ### Team
-
-Roles as I understand them; teammates, tell me if a line needs correcting.
-
 - **gargvr**: author of the original repository this was forked from; all code here was committed under this account.
 - **Alex**: the algorithm that builds each user's baseline and tracks data over time.
 - **Himanshu**: putting the pieces together and the main application code.
